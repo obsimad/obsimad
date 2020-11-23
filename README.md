@@ -7,7 +7,7 @@
 </p>
 
 <ul>
-  <li><b>🔭 Portfolio Site</b>: <a target="_blank" href="https://obsimad.gitlab.io/">Click Here</a></li>
+  <li><b>My Site</b>: <a target="_blank" href="https://obsimad.github.io/">Click Here</a></li>
   <li><b>Quote I Live By</b>: Don't Let Potential Get Written On Your Tombstone.</li>
 </ul>
 
